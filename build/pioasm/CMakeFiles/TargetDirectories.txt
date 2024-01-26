@@ -1,0 +1,3 @@
+/home/arca/pico/benchmark/build/pioasm/CMakeFiles/pioasm.dir
+/home/arca/pico/benchmark/build/pioasm/CMakeFiles/edit_cache.dir
+/home/arca/pico/benchmark/build/pioasm/CMakeFiles/rebuild_cache.dir
